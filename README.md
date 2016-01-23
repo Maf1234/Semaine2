@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # semaine2
 my second repository on github
 j'ai fini le premier exercice de la semaine 2
@@ -17,3 +18,6 @@ J'ai pu voir:
 ##VOICI LE LIEN SUR CODECADEMY
 
 https://codecademy.com/fr/users/systemRockstar11708/achievements
+=======
+# semaine2
+>>>>>>> 878662cd4cb321c1de1ac9584c2236e4d08b0bfe
